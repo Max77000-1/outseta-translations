@@ -100,9 +100,9 @@
   },
   "Properties": {
   "Account_OrganazationSector": "القطاع",
-  "Account_OrganizationSector_Building_Sector": "قطاع البناء",
-  "Account_OrganizationSector_Investing_Sector": "قطاع الاستثمار",
-  "Account_OrganizationSector_Experts / Academia": "الخبراء / الأكاديميون"
+  "Account_OrganizationSector_BuildingSector": "قطاع البناء",
+  "Account_OrganizationSector_InvestingSector": "قطاع الاستثمار",
+  "Account_OrganizationSector_Experts/Academia": "الخبراء / الأكاديميون"
   },
   "Countries": {
     "Afghanistan": "أفغانستان",
