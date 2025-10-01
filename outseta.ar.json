@@ -99,14 +99,10 @@
     "Preferences": "التفضيلات"
   },
   "Properties": {
-    "Sector": "القطاع",
-    "Sector_BuildingSector": "قطاع البناء",
-    "Sector_InvestingSector": "قطاع الاستثمار",
-    "Sector_ExpertsAcademia": "الخبراء / أكاديمي",
-    "Person_Sector": "القطاع",
-    "Person_Sector_BuildingSector": "قطاع البناء",
-    "Person_Sector_InvestingSector": "قطاع الاستثمار",
-    "Person_Sector_ExpertsAcademia": "الخبراء / أكاديمي"
+  "Account_OrganizationSector": "القطاع",
+  "Account_OrganizationSector_BuildingSector": "قطاع البناء",
+  "Account_OrganizationSector_InvestingSector": "قطاع الاستثمار",
+  "Account_OrganizationSector_ExpertsAcademia": "الخبراء / الأكاديميون"
   },
   "Countries": {
     "Afghanistan": "أفغانستان",
