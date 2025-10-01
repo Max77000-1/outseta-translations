@@ -1,6 +1,6 @@
 {
   "Labels": {
-    "SignUp": "تسجيل حساب جديد 333",
+    "SignUp": "تسجيل حساب جديد",
     "SignUpNow": "سجّل الآن",
     "CreateAccount": "إنشاء حساب",
     "LogIn": "تسجيل الدخول",
@@ -11,7 +11,7 @@
     "Email": "البريد الإلكتروني",
     "Password": "كلمة المرور",
     "ConfirmPassword": "تأكيد كلمة المرور",
-    "FirstName": "الاسم الأولالأول",
+    "FirstName": "الاسم الأول",
     "LastName": "اسم العائلة",
     "Name": "الاسم",
     "Company": "الشركة",
@@ -99,10 +99,10 @@
     "Preferences": "التفضيلات"
   },
   "Properties": {
-  "Account_OrganizationSector": "القطاع",
-  "Account_OrganizationSector_BuildingSector": "قطاع البناء",
-  "Account_OrganizationSector_InvestingSector": "قطاع الاستثمار",
-  "Account_OrganizationSector_ExpertsAcademia": "الخبراء / الأكاديميون"
+  "Account_OrganazationSector": "القطاع",
+  "Account_OrganizationSector_Building Sector": "قطاع البناء",
+  "Account_OrganizationSector_Investing Sector": "قطاع الاستثمار",
+  "Account_OrganizationSector_Experts / Academia": "الخبراء / الأكاديميون"
   },
   "Countries": {
     "Afghanistan": "أفغانستان",
