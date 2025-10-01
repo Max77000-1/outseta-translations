@@ -1,0 +1,136 @@
+{
+  "Labels": {
+    "SignUp": "تسجيل حساب",
+    "SignUpNow": "سجّل الآن",
+    "CreateAccount": "إنشاء حساب",
+    "LogIn": "تسجيل الدخول",
+    "LogOut": "تسجيل الخروج",
+    "ForgotPassword": "هل نسيت كلمة المرور؟",
+    "ResetPassword": "إعادة ضبط كلمة المرور",
+    "UpdatePassword": "تحديث كلمة المرور",
+    "Email": "البريد الإلكتروني",
+    "Password": "كلمة المرور",
+    "ConfirmPassword": "تأكيد كلمة المرور",
+    "FirstName": "الاسم الأول",
+    "LastName": "اسم العائلة",
+    "Name": "الاسم",
+    "Company": "الشركة",
+    "Phone": "رقم الهاتف",
+    "Country": "الدولة",
+    "Address": "العنوان",
+    "City": "المدينة",
+    "PostalCode": "الرمز البريدي",
+    "State": "الولاية/المحافظة",
+    "Profile": "الملف الشخصي",
+    "MyAccount": "حسابي",
+    "Dashboard": "لوحة التحكم",
+    "Language": "اللغة",
+    "Save": "حفظ",
+    "Cancel": "إلغاء",
+    "Edit": "تعديل",
+    "Delete": "حذف",
+    "Close": "إغلاق",
+    "Continue": "متابعة",
+    "Back": "رجوع",
+    "Next": "التالي",
+    "Previous": "السابق",
+    "Required": "إلزامي",
+    "Optional": "اختياري"
+  },
+  "Buttons": {
+    "Submit": "إرسال",
+    "SaveChanges": "حفظ التغييرات",
+    "ChangePlan": "تغيير الخطة",
+    "UpdatePaymentMethod": "تحديث وسيلة الدفع",
+    "Apply": "تطبيق",
+    "Confirm": "تأكيد"
+  },
+  "Auth": {
+    "WelcomeBack": "مرحبًا بعودتك",
+    "CreateYourAccount": "أنشئ حسابك",
+    "CheckYourEmail": "تحقق من بريدك الإلكتروني",
+    "PasswordResetEmailSent": "تم إرسال رسالة إعادة ضبط كلمة المرور"
+  },
+  "Messages": {
+    "Saved": "تم الحفظ بنجاح",
+    "Updated": "تم التحديث بنجاح",
+    "Deleted": "تم الحذف بنجاح",
+    "AreYouSure": "هل أنت متأكد؟",
+    "NoResults": "لا توجد نتائج"
+  },
+  "Errors": {
+    "Required": "هذا الحقل مطلوب",
+    "MinLength": "القيمة أقصر من الحد الأدنى",
+    "MaxLength": "القيمة أطول من الحد الأقصى",
+    "InvalidEmail": "صيغة البريد الإلكتروني غير صحيحة",
+    "PasswordsDoNotMatch": "كلمتا المرور غير متطابقتين",
+    "SomethingWentWrong": "حدث خطأ غير متوقع"
+  },
+  "Billing": {
+    "Billing": "الفوترة",
+    "Plan": "الخطة",
+    "Price": "السعر",
+    "PerMonth": "شهريًا",
+    "PerYear": "سنويًا",
+    "BillingAddress": "عنوان الفوترة",
+    "PaymentMethod": "وسيلة الدفع",
+    "CardNumber": "رقم البطاقة",
+    "CardholderName": "اسم صاحب البطاقة",
+    "Expires": "تاريخ الانتهاء",
+    "Cvc": "رمز الأمان",
+    "ApplyCoupon": "تطبيق القسيمة",
+    "InvoiceHistory": "سجل الفواتير",
+    "DownloadInvoice": "تنزيل الفاتورة"
+  },
+  "Subscriptions": {
+    "ManageSubscription": "إدارة الاشتراك",
+    "CurrentPlan": "الخطة الحالية",
+    "ChangePlan": "تغيير الخطة",
+    "CancelSubscription": "إلغاء الاشتراك",
+    "ResumeSubscription": "استئناف الاشتراك",
+    "Trial": "فترة تجريبية",
+    "TrialEnds": "تنتهي الفترة التجريبية في"
+  },
+  "FieldGroups": {
+    "ContactInformation": "معلومات التواصل",
+    "Security": "الأمان",
+    "CompanyDetails": "بيانات الشركة",
+    "Address": "العنوان",
+    "Preferences": "التفضيلات"
+  },
+  "Properties": {
+    "Sector": "القطاع",
+    "Sector_BuildingSector": "قطاع البناء",
+    "Sector_InvestingSector": "قطاع الاستثمار",
+    "Sector_ExpertsAcademia": "الخبراء / أكاديمي",
+    "Person_Sector": "القطاع",
+    "Person_Sector_BuildingSector": "قطاع البناء",
+    "Person_Sector_InvestingSector": "قطاع الاستثمار",
+    "Person_Sector_ExpertsAcademia": "الخبراء / أكاديمي"
+  },
+  "Countries": {
+    "Afghanistan": "أفغانستان",
+    "Albania": "ألبانيا",
+    "Algeria": "الجزائر",
+    "Germany": "ألمانيا",
+    "Qatar": "قطر",
+    "SaudiArabia": "السعودية",
+    "SyrianArabRepublic": "سوريا",
+    "UnitedArabEmirates": "الإمارات العربية المتحدة",
+    "UnitedKingdom": "المملكة المتحدة",
+    "UnitedStates": "الولايات المتحدة"
+  },
+  "Plans": {
+    "[Uid]": {
+      "Name": "اسم الخطة",
+      "Description": "وصف الخطة"
+    }
+  },
+  "AddOns": {
+    "[Uid]": {
+      "Name": "اسم الإضافة",
+      "UnitOfMeasure": "وحدة",
+      "UnitOfMeasurePlural": "وحدات"
+    }
+  }
+}
