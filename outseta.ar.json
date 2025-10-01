@@ -1,6 +1,6 @@
 {
   "Labels": {
-    "SignUp": "تسجيل حساب جديد",
+    "SignUp": "إنشاء حساب جديد",
     "SignUpNow": "سجّل الآن",
     "CreateAccount": "إنشاء حساب",
     "LogIn": "تسجيل الدخول",
@@ -100,8 +100,8 @@
   },
   "Properties": {
   "Account_OrganazationSector": "القطاع",
-  "Account_OrganizationSector_Building Sector": "قطاع البناء",
-  "Account_OrganizationSector_Investing Sector": "قطاع الاستثمار",
+  "Account_OrganizationSector_Building_Sector": "قطاع البناء",
+  "Account_OrganizationSector_Investing_Sector": "قطاع الاستثمار",
   "Account_OrganizationSector_Experts / Academia": "الخبراء / الأكاديميون"
   },
   "Countries": {
