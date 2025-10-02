@@ -98,11 +98,11 @@
     "Address": "العنوان",
     "Preferences": "التفضيلات"
   },
-  "Properties": {
+"Properties": {
   "Account_OrganazationSector": "القطاع",
-  "Account_OrganizationSector_BuildingSector": "قطاع البناء",
-  "Account_OrganizationSector_InvestingSector": "قطاع الاستثمار",
-  "Account_OrganizationSector_Experts/Academia": "الخبراء / الأكاديميون"
+  "Account_OrganazationSector_Building Sector": "قطاع البناء",
+  "Account_OrganazationSector_Investing Sector": "قطاع الاستثمار",
+  "Account_OrganazationSector_Experts / Academia": "الخبراء / الأكاديميون"
   },
   "Countries": {
     "Afghanistan": "أفغانستان",
