@@ -99,11 +99,11 @@
     "Preferences": "التفضيلات"
   },
 "Properties": {
-  "Account_CoSector": "القطاع",
-  "Account_CoSector_Building Sector": "قطاع البناء",
-  "Account_CoSector_Investing Sector": "قطاع الاستثمار",
-  "Account_CoSector_Experts or Academia": "الخبراء أو الأكاديميون",
-  "Account_CoSector_TEST": "تجربة"
+  "Account_Cosector": "القطاع",
+  "Account_Cosector_BuildingSector": "قطاع البناء",
+  "Account_Cosector_InvestingSector": "قطاع الاستثمار",
+  "Account_Cosector_ExpertsorAcademia": "الخبراء أو الأكاديميون",
+  "Account_Cosector_TEST": "تجربة"
   },
   "Countries": {
     "Afghanistan": "أفغانستان",
