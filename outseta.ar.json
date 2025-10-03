@@ -169,7 +169,7 @@
     "Remove": "إزالة",
     "RemovePaymentInformation": "إزالة وسيلة الدفع",
     "RemovePaymentInformationText": "هل تريد إزالة وسيلة الدفع هذه؟",
-    "RemoveProfilePhoto": "إزالة الصورة الشخصية",
+    "RemoveProfilePhoto": "إزالة الصورة / الشعار",
     "RemoveTeamMember": "إزالة عضو الفريق",
     "RemoveTeamMemberText": "هل تريد إزالة <strong>{{personName}}</strong> من الفريق؟",
     "ReopenAccountToPurchaseAddOn": "أعد فتح الحساب لشراء هذه الإضافة.",
@@ -220,7 +220,7 @@
     "UnsubscribeReason_TheEmailsAreSpamAndShouldBeReported": "الرسائل مزعجة ويجب الإبلاغ عنها",
     "UnsubscribeReason_Other": "سبب آخر",
     "Until": "حتى",
-    "UploadProfilePhoto": "رفع صورة شخصية",
+    "UploadProfilePhoto": "رفع صورة / شعار ",
     "Update": "تحديث",
     "UpdatePaymentInformation": "تحديث معلومات الدفع",
     "ViewMoreInvoices": "عرض فواتير إضافية",
@@ -377,12 +377,12 @@
     "Person_Password": "كلمة المرور",
     "Person_PhoneMobile": "هاتف (جوال)",
     "Person_PhoneWork": "هاتف (عمل)",
-    "Person_ProfileImageS3Url": "الصورة الشخصية",
+    "Person_ProfileImageS3Url": "الصورة / الشعار",
     "Person_Title": "المسمى الوظيفي",
     "PostalCode": "الرمز البريدي",
     "StateRegion": "الولاية/المحافظة",
 
-    /* —— تخصيصك للقطاعات (Cosector) ——— */
+
     "Account_Cosector": "القطاع",
     "Account_Cosector_BuildingSector": "قطاع البناء",
     "Account_Cosector_InvestingSector": "قطاع الاستثمار",
