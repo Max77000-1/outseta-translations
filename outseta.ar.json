@@ -102,8 +102,7 @@
   "Account_Cosector": "القطاع",
   "Account_Cosector_BuildingSector": "قطاع البناء",
   "Account_Cosector_InvestingSector": "قطاع الاستثمار",
-  "Account_Cosector_ExpertsorAcademia": "الخبراء أو الأكاديميون",
-  "Account_Cosector_TEST": "تجربة"
+  "Account_Cosector_Experts/Academia": "الخبراء أو الأكاديميون",
   },
   "Countries": {
     "Afghanistan": "أفغانستان",
