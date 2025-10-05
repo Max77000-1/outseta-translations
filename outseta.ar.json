@@ -388,6 +388,8 @@
   "Account_Sector_InvestingSector": "قطاع الاستثمار",
   "Account_Sector_ExpertsAcademia": "الخبراء و الأكاديميون"
 
+  "Person_preferredlanguage": "لغة المفضلة",
+    
   },
   "TaxIdTypes": {
     "au_abn": "الرقم الضريبي الأسترالي (AU ABN)",
