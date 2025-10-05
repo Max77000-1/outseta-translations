@@ -381,14 +381,12 @@
     "Person_Title": "المسمى الوظيفي",
     "PostalCode": "الرمز البريدي",
     "StateRegion": "الولاية/المحافظة",
-
+    "Person_preferredlanguage": "اللغة المفضلة",
 
   "Account_Sector": "القطاع",
   "Account_Sector_BuildingSector": "قطاع البناء",
   "Account_Sector_InvestingSector": "قطاع الاستثمار",
   "Account_Sector_ExpertsAcademia": "الخبراء و الأكاديميون"
-
-  "Person_preferredlanguage": "لغة المفضلة",
     
   },
   "TaxIdTypes": {
