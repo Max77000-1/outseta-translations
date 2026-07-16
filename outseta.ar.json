@@ -330,7 +330,8 @@
     "TwoFactorUseTotpInstead": "استخدم تطبيق المصادقة بدلاً من ذلك",
     "UseAuthenticatorApp": "استخدام تطبيق مصادقة",
     "UseEmail": "استخدام البريد الإلكتروني",
-    "ProfilePhoto": "صورة الملف الشخصي"
+    "ProfilePhoto": "صورة الملف الشخصي",
+    "Profile_Photo": "صورة الملف الشخصي"
   },
   "Errors": {
     "AlreadySubscribed": "أنت مشترك بالفعل في هذا المنتج.",
@@ -457,7 +458,9 @@
     "Change_Password": "تغيير كلمة المرور",
     "Change_Phone": "تغيير الهاتف",
     "Organization": "المنظمة",
-    "Phone": "الهاتف"
+    "Phone": "الهاتف",
+    "ProfilePhoto": "صورة الملف الشخصي",
+    "Change_ProfilePhoto": "تغيير الصورة"
   },
   "Plans": {
     "[Uid]": {
